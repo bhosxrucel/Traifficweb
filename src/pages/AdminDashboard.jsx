@@ -21,7 +21,7 @@ const AdminDashboard = () => {
       >
         {/* Fallback content if iframe is not supported */}
         <p>Your browser does not support iframes.</p>
-        <p>Please visit <a href="http://192.168.100.154:5001/dashboard" target="_blank" rel="noopener noreferrer">http://192.168.100.154:5001/</a> directly.</p>
+        <p>Please visit <a href="http://192.168.100.154:5001/dashboard" target="_blank" rel="noopener noreferrer">http://192.168.100.154:5001/dashboard</a> directly.</p>
       </iframe>
       
       </div>

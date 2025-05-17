@@ -36,7 +36,7 @@ const HeroSection = () => {
               transition={{ type: "spring", stiffness: 300 }}
             >
               <a
-                href="https://baron95.tech/traiffic/automated-traffic-management-system-using-data-driven-predective-analysis-for-traffic-control/?fbclid=IwY2xjawJ40qVleHRuA2FlbQIxMABicmlkETFJbWpldW80Rk80dVRTdlNEAR4IzQx1Al-D_Ap5QdzvT-_P1j_Uidk1uKgv9fUy-kGHOvX1Gl0aRN6MxC_CzA_aem_teAG_yZF9X35ZfLrVYsx6A"
+                href="https://l.messenger.com/l.php?u=https%3A%2F%2Fdejesusredjie12.wordpress.com%2F&h=AT0HdexQnmwZB0JMrYI9iTZjhgBdWbl1oJwy7mvt4p2ZvTeXitDngVswJ-wXGQK1wiYrHW9d-xOTEBzLI_XzKgFFI9evPPzMkKlAwlwRn-e4llbGu7N8kCR5d3ZUMAONCrsgKQ"
                 class="inline-block px-4 py-2 rounded-full bg-teal-500 text-white hover:bg-teal-800 shadow-lg transition duration-300 hover:shadow-xl"
               >
                 Explore the System
